@@ -1,0 +1,15 @@
+{"product":[
+    {
+        "id": 1,
+        "img": "https://avatars.githubusercontent.com/u/122521139?s=200&v=4",
+        "gitlink": "https://github.com/EquistartLabs",
+        "name": "Equistart",
+        "disc": "Equistart - The DAO Suite aims at creating a full stack DAO suite for a community to create their Decentralised Autonomous Organization with no code and mobile support. Creating a DAO is a tedious task with no single application providing an end-to-end solution and Information. With our dapp, users can easily mint their tokens, raise funds by selling parts of tokens, manage the raised funds (Treasury Management/ AMM), and finally Govern the project bound by tokens in a decentralized and autonomous fashion."
+      }, {
+        "id": 2,
+        "img": "https://raw.githubusercontent.com/yaksheshgupta/trademutual/main/TradeMutual%20icons/Group%20277.png",
+        "gitlink": "https://github.com/yaksheshgupta/trademutual/",
+        "name": "TradeMutual",
+        "disc": "TradeMutual is a retail-oriented cryptocurrency fund that focuses on creating wealth for its investors and token holders by trading bluechip cryptocurrencies. It makes crypto trading as easy as making a stablecoin deposit. With TradeMutual, an average retail investor can earn from crypto trading without learning the complicated trading strategies. TradeMutual aims to establish itself as a reputed crypto trading fund that will be known for its trustworthiness, transparency, superior returns, and long-term vision."
+      }
+]}

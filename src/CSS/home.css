@@ -1,28 +1,15 @@
-body {
-    background-image: url("https://media.tenor.com/EE4a9EYY2FsAAAAC/ather2.gif");
-    background-color: black;
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: 100vh;
-}
-
-a {
-    text-decoration: none;
-}
-
-.grid-container {
+.flex-container {
     display: flex;
     flex-direction: column;
     padding-top: 20vh;
     padding-left: 20vh;
-    font-size: 20vh;
+    font-size: 15vh;
 }
 
 .text1:hover,
 .text2:hover,
 .text3:hover {
     padding-left: 5%;
-    color: red;
     transition: 0.5s;
 
 }
@@ -32,27 +19,30 @@ a {
 }
 
 .text1:hover:after {
-    content: "About";
+    content: "./About";
     transition: 0.1s;
-
+    color: aquamarine;
 }
 
 .text2:after {
     content: "I Am";
+    color: slateblue;
 }
 
 .text2:hover:after {
-    content: "Work";
+    content: "./Work";
     transition: 0.1s;
+    color: darkseagreen;
 
 }
 
 .text3:after {
     content: "Yakshesh";
+    color: cornflowerblue;
 }
 
 .text3:hover:after {
-    content: "Contact";
+    content: "./Let's Connect";
     transition: 0.1s;
-
+    color: lightgreen;
 }

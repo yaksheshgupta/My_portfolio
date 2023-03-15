@@ -1,0 +1,43 @@
+.contact {
+    color: aliceblue;
+    font-size: 20vh;
+    text-decoration-line: line-through;
+    text-decoration-thickness: 5px;
+    text-decoration-color: black;
+}
+
+.a-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    font-size: 5vh;
+    /* padding: 5%; */
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+
+.insideText {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+}
+
+button {
+    align-content: center;
+    color: red;
+    border: none;
+    background: none;
+
+}
+
+.ic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,5 +1,16 @@
 *{
-  /* background-color: black; */
-  color: aliceblue;
+  scroll-behavior:smooth;
+  cursor:url("../public/img/cursor1.png"),auto;
 }
-
+body {
+  background-image: url("https://media.tenor.com/EE4a9EYY2FsAAAAC/ather2.gif");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position:right;
+  background-size: 100vh;
+  color: aliceblue;
+  
+}
+a{
+  text-decoration: none;
+}
