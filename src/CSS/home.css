@@ -4,7 +4,14 @@
     padding-top: 20vh;
     padding-left: 20vh;
     font-size: 15vh;
+    background-image: url("../../public/img/emoji.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position:right;
+
 }
+
+
 
 .text1:hover,
 .text2:hover,

@@ -13,6 +13,9 @@ function Work() {
                     </>
                 )
             })}
+            <div className='text-work'>
+                <a href='https://github.com/yaksheshgupta'>My GitHub</a>
+            </div>
         </>
     );
 }
@@ -34,7 +37,6 @@ export const Card = (s) => {
                         </div>
                         <img src={s.img} alt="loading.." className='imggg card-flex-content' />
                     </div>
-
                 </div>
             </div>
         </>

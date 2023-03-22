@@ -22,7 +22,9 @@
 }
 .insideText{
     font-family: 'Courier New', Courier, monospace;
-    margin:20px;
+    /* margin:50%; */
+    padding-right: 20%;
+    padding-left: 20%;
 }
 .abt-btn{
     border: none;
