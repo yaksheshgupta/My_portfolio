@@ -1,14 +1,15 @@
+.pic-home{
+    background-image: url("../../public/img/me.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position:right;
+}
 .flex-container {
     display: flex;
     flex-direction: column;
     padding-top: 20vh;
     padding-left: 20vh;
     font-size: 15vh;
-    background-image: url("../../public/img/me.png");
-    background-color: black;
-    background-repeat: no-repeat;
-    background-position:right;
-
 }
 
 
@@ -53,3 +54,13 @@
     transition: 0.1s;
     color: lightgreen;
 }
+
+@media only screen and (max-width: 600px) {
+    .pic-home{
+        background-position:bottom;
+    }
+    .flex-container {
+        font-size: 20vw;
+        padding-left: 0px; 
+    }
+  }
