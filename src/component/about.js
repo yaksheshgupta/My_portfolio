@@ -23,7 +23,7 @@ function About() {
             </div>
             <div className='text'>
                 <div className='insideText'>
-                    Hi, I am Yakshesh Gupta, I am SmartContract developer
+                    Hi, I am Yakshesh Gupta, I am SmartContract and Web developer 
                     in second year college student pursuing engineering in Computer Science. 
                     <br/>
                     <br/>
