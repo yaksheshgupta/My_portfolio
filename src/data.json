@@ -13,6 +13,14 @@
       "gitlink": "https://github.com/trademutual-org",
       "name": "TradeMutual",
       "disc": "TradeMutual- is a retail-oriented cryptocurrency fund that focuses on creating wealth for its investors and token holders by trading bluechip cryptocurrencies. It makes crypto trading as easy as making a stablecoin deposit. With TradeMutual, an average retail investor can earn from crypto trading without learning the complicated trading strategies. TradeMutual aims to establish itself as a reputed crypto trading fund that will be known for its trustworthiness, transparency, superior returns, and long-term vision."
+    },
+    {
+      "id": 3,
+      "img": "https://avatars.githubusercontent.com/u/130292094?s=400&u=bed7fff5c1fecfde652af196573572f17a1e0f03&v=4",
+      "gitlink": "https://github.com/yaksheshgupta/Innoverse/",
+      "name": "DataSleuth",
+      "disc": "DataSleuth is a financial investigation platform for government agencies, providing a comprehensive view of financial activity and detecting fraud using advanced algorithms, including crypto-related offenses. The platform generates detailed reports, interactive data visualizations, and ensures secure handling of financial data, prioritizing data privacy and security. DataSleuth integrates with other systems and utilizes machine learning for improved risk assessment and transaction monitoring, aiding in proactive identification of suspicious activities and prevention of financial crimes."
     }
   ]
 }
+
