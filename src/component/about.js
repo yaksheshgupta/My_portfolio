@@ -39,7 +39,6 @@ function About() {
                     <br />
                     <br />
                     These workshop experiences have not only allowed me to impart knowledge but have also strengthened my communication, leadership, and organizational skills. I am constantly seeking new opportunities to share my expertise, contribute to the community, and inspire others to explore the potential of emerging technologies.
-
             </div>
             <button className='abt-btn' onClick={onButtonClick}>
                 Download resume!
